@@ -1,5 +1,5 @@
 #Asheron's Call multi window manager
-
+ 
 ###Requirements:
 **Autohotkey**
 Asheron's call
@@ -34,8 +34,8 @@ Alt+Win+7 - Refresh
 
 
 ### Thanks to:
-Thwargle – his launcher renaming the window to the account made catching all my ac windows real easy. Also the multi bot command broadcast was great.
-Magnus – for open sourcing his work which helped me figure out how to post messaged to the ac clients properly.
-Immortal bob – for running his forum
+Thwargle ï¿½ his launcher renaming the window to the account made catching all my ac windows real easy. Also the multi bot command broadcast was great.
+Magnus ï¿½ for open sourcing his work which helped me figure out how to post messaged to the ac clients properly.
+Immortal bob ï¿½ for running his forum
 Vtank
 And the decal devs
